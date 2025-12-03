@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamimran613&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alamimran613&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafchan Sami&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamimran613&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamimran613&theme=radical&utcOffset=8">
 

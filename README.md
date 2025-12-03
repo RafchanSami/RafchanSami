@@ -2,6 +2,14 @@
 # Hi 👋, I'm Rafchan Sami
 **Pro Coder**
 😊😊
+
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact
+
 ## 🌐 Socials:
   [![YouTub](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 ## 🏆 GitHub Trophies

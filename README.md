@@ -1,24 +1,62 @@
-# 💫 About Me:
-
-# Hi 👋, I'm Rafchan Sami
-**Pro Coder**
-😊😊
-
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RafchanSami&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RafchanSami&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafchanSami&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-!-- Snake Game Repo View -->
+<div id="RafchanSami" align="start" display="flex" flex-decoration="flex-row">
+  <h2 text-align="start">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hey!+I'm+RahchanSami%2C;a+dreamer+turned+coder+%F0%9F%8C%B1%F0%9F%92%BB+"/>
+  </h2> 
+</div>
+
+<div id="About" >
+  👋 Me : PRO coder.
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=orange" alt="Profile Views"/>
+  <img src="https://wakatime.com/badge/user/0aeac92c-f18d-4daf-bc16-7879019c83d6.svg" alt="Profile Views"/>
+  <br>
+  <br>
+</div>
+
+  <div id="tools">
+  :wrench: Languages :
+  <br>
+  <br>
+</div>
+
+<div id="tools-icon">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" title="Lua" alt="Lua" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" title="Ts" alt="Ts" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" title="Sass" alt="Sass" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" title="MUI" alt="MUI" width="40" height="40" >&nbsp;
+  <br>
+  <br>
+</div>
+
+<div id="tools">
+  :hammer: Tools :
+  <br>
+  <br>
+</div>
+
+<div id="tools-icon">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="40" height="40" >&nbsp;
+  <br>
+  <br>
+</div>
+
+<div id="herokuapp" align="start">
+  
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -37,4 +75,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RafchanSami&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  </a>
+</p>

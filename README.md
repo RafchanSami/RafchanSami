@@ -2,9 +2,23 @@
 
 <div id="RafchanSami" align="start" display="flex" flex-decoration="flex-row">
   <h2 text-align="start">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hey!+I'm+RahchanSami%2C;a+dreamer+turned+coder+%F0%9F%8C%B1%F0%9F%92%BB+"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hey!+I'm+Rahchan+Sami%2C;a+dreamer+turned+coder+%F0%9F%8C%B1%F0%9F%92%BB+"/>
   </h2> 
 </div>
+
+- 🔭 I'm currently working on **Study Bondhu**
+
+- 🌱 I'm currently learning **PHP**
+
+- 👯 I'm looking to collaborate on **Open Source Project**
+
+- 🤝 I'm looking for help with **learning System Design**
+
+- 💬 Ask me about **HTML, CSS, JS, REACT, TS etc.**
+
+- 📫 How to reach me **rafchansami@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <div id="About" >
   👋 Me : PRO coder.
@@ -15,6 +29,12 @@
   <br>
   <br>
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/RafchanSami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RafchanSami" height="30" width="40" /></a>
+</p>
+
 
   <div id="tools">
   :wrench: Languages :
@@ -68,6 +88,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafchanSami&show_icons=true&locale=en&layout=compact" alt="RafchanSami" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RafchanSami&show_icons=true&locale=en" alt="RafchanSami" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RafchanSami&limit=5&theme=dark&combine_all_yearly_contributions=true)

@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20my%20Github+Profile&fontSize=40&animation=fadeIn" />
+</p>
+
 
 
 <div id="RafchanSami" align="start" display="flex" flex-decoration="flex-row">
@@ -34,6 +38,15 @@
 <p align="left">
 <a href="https://github.com/RafchanSami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RafchanSami" height="30" width="40" /></a>
 </p>
+
+
+<p align="center"> 
+  
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=F700FF&center=true&vCenter=true&lines=🚀+My+Skills" />
+
+
+</p>
+
 
 
   <div id="tools">
@@ -82,6 +95,11 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center"> 
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RafchanSami&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -91,7 +109,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafchanSami&show_icons=true&locale=en&layout=compact" alt="RafchanSami" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RafchanSami&show_icons=true&locale=en" alt="RafchanSami" /></p>
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=RafchanSami&theme=github_dark&show_icons=true" />
+
+
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RafchanSami&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -99,6 +122,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RafchanSami&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafchanSami&theme=react-dark" />
+
+<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&lines=Thanks+for+visiting+my+Github+Profile+✨" />
+
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=90&section=footer" />
 
   </a>
 </p>

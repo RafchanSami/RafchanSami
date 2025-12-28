@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, REACT, TS etc.**
 
-- 📫 How to reach me **rafchansami@gmail.com**
+- 📫 How to reach me **rafchansami.netlify.app**
 
 - ⚡ Fun fact **I think I am funny**
 

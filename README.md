@@ -1,3 +1,11 @@
+<!-- COVER PHOTO -->
+<p align="center">
+  <img src="https://i.imgur.com/iiRHkTT.png" alt="Rafchan Sami " />
+</p>
+
+
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20my%20Github+Profile&fontSize=40&animation=fadeIn" />
 </p>

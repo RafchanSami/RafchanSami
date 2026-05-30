@@ -30,8 +30,11 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- 🏫 I study at **Cumilla Modern High School** 
+
+
 <div id="About" >
-  👋 Me : PRO coder.
+  👋 Me : CYBER Shadow.
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=orange" alt="Profile Views"/>

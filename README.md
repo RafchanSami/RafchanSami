@@ -5,7 +5,7 @@
 
 <!-- COVER PHOTO -->
 <p align="center">
-  <img src="https://i.imgur.com/iiRHkTT.png" alt="Rafchan Sami " />
+  <img src="https://i.pinimg.com/736x/b1/0b/39/b10b3961e1b83bddb6c24d85274a9cab.jpg" alt="Rafchan Sami " />
 </p>
 
 

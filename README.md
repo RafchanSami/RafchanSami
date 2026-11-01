@@ -16,7 +16,7 @@
   </h2> 
 </div>
 
-- 🔭 I'm currently working on **Study Bondhu**
+- 🔭 I'm currently working on **BD-ZEN AI**
 
 - 🌱 I'm currently learning **PHP**
 
@@ -26,15 +26,15 @@
 
 - 💬 Ask me about **HTML, CSS, JS, REACT, TS etc.**
 
-- 📫 How to reach me **rafchansami.netlify.app**
+- 📫 How to reach me **https://rafchan-sami.onrender.com**
 
 - ⚡ Fun fact **I think I am funny**
 
-- 🏫 I study at **Cumilla Modern High School** 
+- 🏫 I study at **Cumilla Modern High School "Class:8"** 
 
 
 <div id="About" >
-  👋 Me : CYBER Shadow.
+  👋 Me : CYBERvoidX.
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=orange" alt="Profile Views"/>
@@ -66,7 +66,7 @@
 
 <div id="tools-icon">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" title="Lua" alt="Lua" width="40" height="40">&nbsp;
+  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
@@ -75,8 +75,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" title="Ts" alt="Ts" width="40" height="40" >&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" title="Sass" alt="Sass" width="40" height="40" >&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" title="MUI" alt="MUI" width="40" height="40" >&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
   <br>
   <br>
 </div>
@@ -89,9 +88,17 @@
 
 <div id="tools-icon">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="40" height="40" >&nbsp;
+<img src="https://cdn.simpleicons.org/openrouter/6467F2" title="OpenRouter" alt="OpenRouter" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/canva/00C4CC" title="Canva" alt="Canva" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/gamma/000000" title="Gamma" alt="Gamma" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/figma/F24E1E" title="Figma" alt="Figma" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" title="Gemini" alt="Gemini" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" alt="Vercel" width="40" height="40">&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" title="Supabase" alt="Supabase" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="40" height="40">&nbsp;
   <br>
   <br>
 </div>
